@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /loginpage/
+Disallow: /edit/
+Disallow: /new/
+
+
+# Permitir todo lo demás
+Allow: /
+
+# Ubicación del Sitemap
+Sitemap: https://www.maestriaennegociosdigitales.com/sitemap.xml
